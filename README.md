@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Carlos Henrique.
 
 
-- 🔭 Atualmente trabalho com Front-end.
+- 🔭 Atualmente trabalho com Front-end e Back-end.
 - 🌱 Estou estudando na Labenu.
 - 😄 Pronomes: Ele/dele.
 
