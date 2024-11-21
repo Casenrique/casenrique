@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Carlos Henrique.
 
 
-- 🔭 Atualmente trabalho com Front-end e Back-end.
+- 🔭 Atualmente trabalho na <a href = "(https://www.levty.com/br)" target="_blank"></a>.
 - 😄 Pronomes: Ele/dele.
 
 
