@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Carlos Henrique.
 
 
-- 🔭 Atualmente trabalho na <a href = "(https://www.levty.com/br)" target="_blank"></a>.
+- 🔭 Atualmente trabalho na [LEVTY](https://www.levty.com/br).
 - 😄 Pronomes: Ele/dele.
 
 
