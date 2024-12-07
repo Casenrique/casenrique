@@ -2,7 +2,6 @@
 
 
 - 🔭 Atualmente trabalho na [LEVTY](https://www.levty.com/br).
-- 😄 Pronomes: Ele/dele.
 
 
 <div align="center">
