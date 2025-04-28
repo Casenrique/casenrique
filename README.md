@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Carlos Henrique.
 
 
-- 🔭 Atualmente trabalho na [LEVTY](https://www.levty.com/br).
+- 🔭 Atualmente trabalho na [Dhauz](https://dhauz.com/).
 
 
 <div align="center">
